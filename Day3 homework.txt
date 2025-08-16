@@ -1,0 +1,332 @@
+1).
+
+import time
+print(2**3**2)
+print()
+time. Sleep(2)
+print("end of an application")
+
+OUTPUT:
+===========
+
+512
+
+end of an application
+
+
+2).
+
+import time
+print(2*3**3*4)
+print()
+time. Sleep(2)
+print("end of an application")
+
+OUTPUT:
+=========
+
+216
+
+end of an application
+
+3).
+
+import time
+print(10-4*2)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+=========
+
+2
+
+end of an application
+
+
+4).
+
+import time
+print(-18//4)
+print()
+time. Sleep(2)
+print("end of an application")
+
+OUTPUT:
+=========
+
+-5
+
+end of an application
+
+
+5).
+
+import time
+print(2%6)
+print()
+time. Sleep(2)
+print("end of an application")
+
+OUTPUT:
+=========
+
+
+2
+
+end of an application
+
+
+6).
+
+import time
+x = 100
+y = 50
+print(x and y)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+=========
+50
+
+end of an application
+
+7).
+
+import time
+print(36/4)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+==========
+
+9.0
+
+end of an application
+
+
+8).
+
+import time
+var1 = 1
+var2 = 2
+var3 = "3"
+print(var1 + var2 + var3)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+==========
+
+Traceback (most recent call last):
+  File "C:/Users/malli/AppData/Local/Programs/Python/Python312/bangaram.py", line 5, in <module>
+    print(var1 + var2 + var3)
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+
+9).
+
+import time
+p, q, r = 10,20,30
+print(p, q, r)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+===========
+10 20 30
+
+end of an application
+
+
+10).
+
+import time
+value One = 5**2
+value Two = 5**3
+print(value One)
+print(value Two)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+==========
+
+25
+125
+
+end of an application
+
+
+11).
+
+
+import time
+var = "Teja" * 2 * 3
+print(var)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+========
+TejaTejaTejaTejaTeja
+
+end of an application
+
+
+12).
+
+
+import time
+x = 36/4*(3+2)*4+2
+print(x)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+=========
+
+182.0
+
+end of an application
+
+
+13).
+
+
+import time
+x = 10
+print(x)
+print()
+print(type(x))
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+=========
+
+10
+
+<class 'int'>
+
+end of an application
+
+
+14).
+
+
+import time
+var1 = 1
+var2 = 2.5
+var3 = "Malli"
+print(var1)
+print()
+print(type(var1))
+print()
+print(var2)
+print()
+print(type(var2))
+print()
+print(var3)
+print()
+print(type(var3))
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+=========
+
+1
+
+<class 'int'>
+
+2.5
+
+<class 'float'>
+
+malli
+
+<class 'str'>
+
+end of an application
+
+
+15).
+
+import time
+Roll number = 33
+print("Roll number is:", Roll number)
+print()
+print(type(Roll number))
+print()
+x = 25
+print(x)
+print(type(x))
+print()
+time. Sleep(2)
+print("end of an application")
+
+OUTPUT:
+=========
+
+Roll number is: 33
+
+<class 'int'>
+
+25
+<class 'int'>
+
+end of an application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
