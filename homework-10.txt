@@ -1,0 +1,23 @@
+import time
+L1=['Ten','Twenty','Third',10,20,30]
+print(L1)
+print()
+print(type(L1))
+print("======key and values========")
+for x1,x2 in L1.items:
+    print(x1,"====",x2)
+print()
+time. Sleep(2)
+print("end of an application")
+
+
+OUTPUT:
+========
+['Ten', 'Twenty', 'Third', 10, 20, 30]
+
+<class 'list'>
+======key and values========
+Traceback (most recent call last):
+  File "C:/Users/malli/AppData/Local/Programs/Python/Python312/love.py", line 7, in <module>
+    for x1,x2 in L1.items:
+AttributeError: 'list' object has no attribute 'items'
